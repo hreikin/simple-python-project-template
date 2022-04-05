@@ -38,7 +38,6 @@
   <p align="center">
     project_description
     <br />
-    https://hreikin.github.io/gen-pygments-css/
     <a href="https://github_username.github.io/repo_name"><strong>Explore the docs »</strong></a>
     <br />
     <br />
