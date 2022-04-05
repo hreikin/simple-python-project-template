@@ -1,7 +1,5 @@
 import logging
 
-logging.basicConfig(level=logging.DEBUG)
-
 def hello(name="World"):
     """A simple hello function.
 
@@ -13,7 +11,8 @@ def hello(name="World"):
     
     """
     message = f"Hello {name}, from the example project."
-    logging.info(message)
+    logging.debug(message)
+    print(message)
     return message
 
 if __name__ == "__main__":
